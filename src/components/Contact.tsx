@@ -66,7 +66,7 @@ export default function Contact() {
                   <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Full Name</label>
                   <input
                     type="text"
-                    placeholder="Sibusiso Dlamini"
+                    placeholder="enter here"
                     className="w-full px-6 py-4 rounded-xl bg-white border border-slate-200 text-slate-900 focus:outline-none focus:ring-2 focus:ring-brand-500 transition-all font-bold text-sm"
                   />
                 </div>
@@ -74,7 +74,7 @@ export default function Contact() {
                   <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Email Address</label>
                   <input
                     type="email"
-                    placeholder="sibusiso@gmail.com"
+                    placeholder="enter here"
                     className="w-full px-6 py-4 rounded-xl bg-white border border-slate-200 text-slate-900 focus:outline-none focus:ring-2 focus:ring-brand-500 transition-all font-bold text-sm"
                   />
                 </div>

@@ -62,7 +62,7 @@ export default function Navbar() {
               </div>
               <span className="text-2xl font-extrabold tracking-tighter text-slate-900 flex flex-col leading-none">
                 ZITHANDE
-                <span className="text-[10px] tracking-[0.3em] text-brand-600">LANDSCAPING</span>
+                <span className="text-[10px] tracking-[0.3em] text-brand-600">CLEANERS</span>
               </span>
             </div>
 

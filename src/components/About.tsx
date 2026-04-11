@@ -48,7 +48,7 @@ export default function About() {
                 <span className="text-brand-600">Outdoor Living</span>
               </p>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-                Founded by Sibusiso J. in 2019, Zithande Landscaping started with a single lawn mower and a passion for nature. Today, we are a full-service landscaping team dedicated to transforming local gardens into personal sanctuaries.
+                Founded by Sibusiso J. in 2019, Zithande Cleaners started with a single lawn mower and a passion for nature. Today, we are a full-service cleaning team dedicated to transforming local gardens into personal sanctuaries.
               </p>
               <p className="text-lg text-slate-600 mb-10 leading-relaxed">
                 Our team wears our signature green overalls with pride, representing a commitment to hard work, safety, and professional results. We don't just maintain gardens; we build lasting relationships with our community.

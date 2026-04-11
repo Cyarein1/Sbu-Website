@@ -9,22 +9,22 @@ const services = [
     image: 'https://images.unsplash.com/photo-1592419044706-39796d40f98c?q=80&w=800&auto=format&fit=crop',
   },
   {
-    title: 'Expert Pruning',
-    description: 'Professional trimming and shaping of shrubs and hedges to promote growth and aesthetic appeal.',
-    icon: Scissors,
-    image: 'https://images.unsplash.com/photo-1589923188900-85dae523342b?q=80&w=800&auto=format&fit=crop',
-  },
-  {
     title: 'Safe Tree Removal',
     description: 'Specialized tree removal and stump grinding services, ensuring safety and minimal impact on your landscape.',
     icon: TreeDeciduous,
     image: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=800&auto=format&fit=crop',
   },
   {
-    title: 'Pest Prevention',
-    description: 'Integrated pest management solutions to protect your garden from invasive species and diseases.',
+    title: 'Site Clearance',
+    description: 'Fast, professional clearing of overgrown areas, debris, and unwanted vegetation to prepare your property for its next phase.',
     icon: ShieldCheck,
     image: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=800&auto=format&fit=crop',
+  },
+  {
+    title: 'Roof Cleaning and Painting',
+    description: 'Complete roof cleaning and protective painting services to improve appearance, extend lifespan, and refresh your property.',
+    icon: Scissors,
+    image: 'https://images.unsplash.com/photo-1632759145351-1d59208cb06d?q=80&w=800&auto=format&fit=crop',
   },
 ];
 
